@@ -1,1 +1,1 @@
-Training Cypress on https://qaplayground.dev/
+Cypress training on https://qaplayground.dev/
